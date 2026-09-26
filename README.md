@@ -1,7 +1,9 @@
 # Temperature Monitoring Circuit — PIC18F452 + LM35 (Proteus Simulation)
 
-Undergraduate group project for **EEE572** (Electrical/Electronics Engineering),
+Undergraduate group project for **EEE572** (Electrical/Electronics Engineering)
+
 University of Benin, supervised by Dr. Scott Idubor.
+
 **_Submitted: September 26, 2025_**
 
 A real-time temperature monitoring system built around the **LM35** analog
